@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="card_elevation">0dp</dimen>
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="card_gap">12dp</dimen>
+    <dimen name="card_image_height">160dp</dimen>
+    <dimen name="bottom_nav_height">64dp</dimen>
+    <dimen name="chip_corner_radius">99dp</dimen>
+    <dimen name="detail_hero_height">300dp</dimen>
+    <dimen name="icon_btn_size">40dp</dimen>
+    <dimen name="heart_btn_size">36dp</dimen>
+</resources>

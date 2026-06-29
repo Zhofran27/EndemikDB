@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EndemikDB</string>
+    <string name="welcome">Selamat datang</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_favorit">Favorit</string>
+    <string name="nav_hewan">Hewan</string>
+    <string name="nav_tumbuhan">Tumbuhan</string>
+    <string name="search_hint">Cari hewan atau tumbuhan...</string>
+    <string name="empty_favorit_title">Belum ada data favorit</string>
+    <string name="empty_favorit_desc">Simpan data endemik favoritmu dengan menekan ikon hati pada setiap kartu.</string>
+    <string name="btn_jelajahi">Jelajahi Data</string>
+    <string name="label_habitat">Habitat</string>
+    <string name="label_ukuran">Ukuran</string>
+    <string name="label_status">Status</string>
+    <string name="label_deskripsi">Deskripsi</string>
+    <string name="riwayat_pencarian">Riwayat Pencarian</string>
+    <string name="hasil_pencarian">Hasil Pencarian</string>
+    <string name="hapus">Hapus</string>
+    <string name="jelajahi">Jelajahi</string>
+    <string name="data_tersimpan">data tersimpan</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="light_mode">Mode Terang</string>
+</resources>
