@@ -57,17 +57,17 @@ Colok HP via USB + aktifkan USB Debugging, lalu klik tombol ▶️ Run
 ## Screenshot Preview
 
 <p>
-  <img src="Screenshoots/Splash.jpeg" width="250" style="margin-right:10px;"/>
-  <img src="Screenshoots/HewanLight.jpeg" width="250" style="margin-right:10px;"/>
-  <img src="Screenshoots/HewanDark.jpeg" width="250" style="margin-right:10px;"/>
-  <img src="Screenshoots/TumbuhanLight.jpeg" width="250" style="margin-right:10px;"/>
-  <img src="Screenshoots/DetailLight.jpeg" width="250" style="margin-right:10px;"/>
-  <img src="Screenshoots/DetailDark.jpeg" width="250" style="margin-right:10px;"/>
-  <img src="Screenshoots/FavoriteLight.jpeg" width="250" style="margin-right:10px;"/>
-  <img src="Screenshoots/FavoriteDark.jpeg" width="250" style="margin-right:10px;"/>
-  <img src="Screenshoots/SearchLight.jpeg" width="250" style="margin-right:10px;"/>
-  <img src="Screenshoots/ProfileLight.jpeg" width="250" style="margin-right:10px;"/>
-  <img src="Screenshoots/ProfileDark.jpeg" width="250" style="margin-right:10px;"/>
+  <img src="Screenshoots/Splash.jpeg" width="150" style="margin-right:10px;"/>
+  <img src="Screenshoots/HewanLight.jpeg" width="150" style="margin-right:10px;"/>
+  <img src="Screenshoots/HewanDark.jpeg" width="150" style="margin-right:10px;"/>
+  <img src="Screenshoots/TumbuhanLight.jpeg" width="150" style="margin-right:10px;"/>
+  <img src="Screenshoots/DetailLight.jpeg" width="150" style="margin-right:10px;"/>
+  <img src="Screenshoots/DetailDark.jpeg" width="150" style="margin-right:10px;"/>
+  <img src="Screenshoots/FavoriteLight.jpeg" width="150" style="margin-right:10px;"/>
+  <img src="Screenshoots/FavoriteDark.jpeg" width="150" style="margin-right:10px;"/>
+  <img src="Screenshoots/SearchLight.jpeg" width="150" style="margin-right:10px;"/>
+  <img src="Screenshoots/ProfileLight.jpeg" width="150" style="margin-right:10px;"/>
+  <img src="Screenshoots/ProfileDark.jpeg" width="150" style="margin-right:10px;"/>
 </p>
 
 ---
